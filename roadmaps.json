@@ -1,0 +1,101 @@
+{
+  "Python": {
+    "emoji": "🐍",
+    "steps": [
+      "Variables and Data Types",
+      "Control Flow (if, for, while)",
+      "Functions and Scope",
+      "Object-Oriented Programming",
+      "Modules and Packages",
+      "File Handling",
+      "Error Handling",
+      "Libraries (NumPy, Pandas)",
+      "Mini Project"
+    ]
+  },
+  "Data Science": {
+    "emoji": "📊",
+    "steps": [
+      "Python Refresher",
+      "Numpy and Pandas",
+      "Data Cleaning",
+      "Data Visualization",
+      "Statistics & Probability",
+      "EDA",
+      "Mini Data Science Project"
+    ]
+  },
+  "Machine Learning": {
+    "emoji": "🤖",
+    "steps": [
+      "Linear & Logistic Regression",
+      "Decision Trees",
+      "Random Forest",
+      "Model Evaluation",
+      "KNN & SVM",
+      "Clustering (K-Means)",
+      "End-to-End ML Project"
+    ]
+  },
+  "Web Development": {
+    "emoji": "🌐",
+    "steps": [
+      "HTML + CSS",
+      "JavaScript Basics",
+      "Responsive Design",
+      "Git & GitHub",
+      "Frontend Framework (React)",
+      "Backend with Node.js or Django",
+      "APIs & JSON",
+      "Hosting & Deployment"
+    ]
+  },
+  "AI Prompt Engineering": {
+    "emoji": "💬",
+    "steps": [
+      "Understand LLM Basics",
+      "Prompt Design Principles",
+      "Few-shot, Zero-shot, Chain-of-Thought",
+      "System vs User Prompts",
+      "Prompt Injection Attacks",
+      "Hands-on with OpenAI / Cohere",
+      "Build a Prompt-Based Project"
+    ]
+  },
+  "App Development": {
+    "emoji": "📱",
+    "steps": [
+      "Java/Kotlin for Android or Flutter",
+      "UI/UX Design Principles",
+      "State Management",
+      "APIs & Firebase Integration",
+      "Push Notifications",
+      "Offline Mode",
+      "App Publishing"
+    ]
+  },
+  "DevOps Basics": {
+    "emoji": "⚙️",
+    "steps": [
+      "Linux & Shell Basics",
+      "Git & GitHub",
+      "CI/CD Concepts",
+      "Docker Basics",
+      "Kubernetes Intro",
+      "Monitoring Tools (Grafana, Prometheus)",
+      "Mini DevOps Pipeline"
+    ]
+  },
+  "Cybersecurity": {
+    "emoji": "🛡️",
+    "steps": [
+      "Security Fundamentals",
+      "Common Vulnerabilities (OWASP)",
+      "SQL Injection & XSS",
+      "Authentication & Authorization",
+      "Network Security Basics",
+      "Penetration Testing",
+      "Capture the Flag Challenges"
+    ]
+  }
+}
